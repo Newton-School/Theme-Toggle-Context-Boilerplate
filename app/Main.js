@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import { LocalThemedBox } from './components/LocalThemedBox';
 import { ThemeContext } from './components/ThemeProvider';
